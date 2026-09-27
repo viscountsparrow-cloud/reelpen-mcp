@@ -43,6 +43,8 @@ Watch the result and play the entire shot. Wait for **Saved** before leaving.
 
 [Complete connection instructions and troubleshooting](https://beta.reelpen.ai/guides/connect-your-ai)
 
+[Example prompts](docs/EXAMPLES.md) · [Connection and product FAQ](docs/FAQ.md) · [Smithery tool listing](https://smithery.ai/servers/admin-p02g/reelpen)
+
 ## Workflows
 
 | Task | Guide |
@@ -67,6 +69,6 @@ A local DWG experiment is not a released DWG importer, BIM system or constructio
 
 This is Reelpen's public product and connection documentation. It does not contain the application source, private projects, account data or credentials. The hosted connection guide is the current setup reference.
 
-[Website](https://reelpen.ai/) · [YouTube](https://www.youtube.com/@reelpenai) · [Help](https://beta.reelpen.ai/help)
+[Website](https://reelpen.ai/) · [YouTube](https://www.youtube.com/@reelpenai) · [X](https://x.com/reelpenai) · [Help](https://beta.reelpen.ai/help)
 
 Product facts reviewed: 2026-09-28.
